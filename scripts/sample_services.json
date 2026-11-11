@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Sahyadri Super Speciality Hospital",
+    "category": "hospitals",
+    "latitude": 19.9985,
+    "longitude": 73.7842,
+    "address": "Opp. Police Commissioner Office, Gangapur Road, Nashik, Maharashtra",
+    "rating": 4.8,
+    "contact_phone": "+91-253-2310000",
+    "metadata": { "emergency_level": 1, "trauma_center": true, "icu_beds": 50 }
+  },
+  {
+    "name": "State Bank of India 24/7 e-Corner",
+    "category": "atms",
+    "latitude": 19.9962,
+    "longitude": 73.7810,
+    "address": "Near BYK College, College Road, Nashik, Maharashtra",
+    "rating": 4.5,
+    "contact_phone": "+91-1800-425-3800",
+    "metadata": { "cash_deposit_machine": true, "passbook_printing": true }
+  },
+  {
+    "name": "D-Mart Supermarket & Organics",
+    "category": "shops",
+    "latitude": 19.9850,
+    "longitude": 73.7650,
+    "address": "Untwadi Road, Cidco, Nashik, Maharashtra",
+    "rating": 4.7,
+    "contact_phone": "+91-253-2391122",
+    "metadata": { "home_delivery": true, "wheelchair_accessible": true }
+  },
+  {
+    "name": "Barbeque Nation Buffet & Grill",
+    "category": "restaurants",
+    "latitude": 19.9880,
+    "longitude": 73.7710,
+    "address": "3rd Floor, City Centre Mall, Lawate Nagar, Nashik, Maharashtra",
+    "rating": 4.6,
+    "contact_phone": "+91-253-6638888",
+    "metadata": { "cuisine": "Barbecue / North Indian", "live_grill": true }
+  },
+  {
+    "name": "Apollo 24/7 Day & Night Pharmacy",
+    "category": "pharmacies",
+    "latitude": 19.9920,
+    "longitude": 73.7780,
+    "address": "Mahatma Nagar Main Road, Nashik, Maharashtra",
+    "rating": 4.4,
+    "contact_phone": "+91-253-2358899",
+    "metadata": { "open_24_7": true, "home_delivery": true }
+  },
+  {
+    "name": "Cult.fit Fitness & Yoga Center",
+    "category": "others",
+    "latitude": 19.9790,
+    "longitude": 73.7850,
+    "address": "Near Govind Nagar Circle, Nashik, Maharashtra",
+    "rating": 4.9,
+    "contact_phone": "+91-9822001122",
+    "metadata": { "trainer_available": true, "steam_bath": true }
+  }
+]

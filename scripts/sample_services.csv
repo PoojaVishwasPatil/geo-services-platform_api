@@ -1,0 +1,9 @@
+name,category,latitude,longitude,address,rating,contact_phone,metadata
+City Heart General Hospital,hospitals,19.079024,72.879123,"402 Marine Drive, Mumbai",4.8,+91-22-22851000,"{""icu_available"": true, ""beds"": 250}"
+Global Care Children Hospital,hospitals,19.082150,72.883420,"12 Bandra Kurla Complex, Mumbai",4.9,+91-22-66778899,"{""pediatric_emergency"": true}"
+Apex Premier Bank 24x7 ATM,atms,19.075400,72.874200,"Station Road Junction, Mumbai",4.3,+91-1800-200-1111,"{""cash_deposit"": true, ""wheelchair_access"": true}"
+Metro Supermarket & Organics,shops,19.071100,72.869800,"Sector 5 Linking Road, Mumbai",4.6,+91-9820011223,"{""home_delivery"": true, ""card_accepted"": true}"
+Saffron Delight Indian Bistro,restaurants,19.084300,72.871500,"Level 2 Phoenix Marketcity, Mumbai",4.7,+91-22-40055000,"{""cuisine"": ""North Indian"", ""valet_parking"": true}"
+Apollo LifeCare 24hr Chemist,pharmacies,19.077200,72.876500,"Shop 4 Hill View Towers, Mumbai",4.5,+91-22-26458000,"{""delivery"": true, ""open_all_night"": true}"
+Speedy Moto Workshop,others,19.068900,72.882100,"Old Agra Road, Mumbai",4.2,+91-9988776655,"{""towing"": true, ""authorized_dealer"": false}"
+
